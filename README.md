@@ -36,7 +36,5 @@ Recommendation Function: Central to delivering personalized suggestions.<br>
 
 I’m excited about the possibilities this system opens up and look forward to exploring more advanced recommendation techniques in the future! If you have any questions or want to discuss similar projects, feel free to connect or comment below. 💬👇<br>
 
-dataset:<br>
-https://lnkd.in/eAYQVPDQ<br>
 
 THANKS !! 
